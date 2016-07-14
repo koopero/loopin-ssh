@@ -1,0 +1,29 @@
+{
+  "name": "loopin-ssh",
+  "version": "0.6.0",
+  "description": "SSH remote adapter for Loopin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koopero/loopin-ssh.git"
+  },
+  "keywords": [
+    "loopin",
+    "remote",
+    "ssh"
+  ],
+  "author": "Samm Cooper <koopero@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koopero/loopin-ssh/issues"
+  },
+  "homepage": "https://github.com/koopero/loopin-ssh#readme",
+  "dependencies": {
+    "boptions": "^0.4.2",
+    "js-yaml": "^3.6.1",
+    "ssh2": "^0.5.0"
+  }
+}

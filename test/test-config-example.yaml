@@ -1,0 +1,8 @@
+#
+# To run tests, duplicate this file as 'test-config.yaml'
+# Fill in yer own stuff, obviously.
+#
+host: yourhost.com
+port: 22
+username: yourusername
+password: yourpassword
